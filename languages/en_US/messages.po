@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OSClass News Manager\n"
+"POT-Creation-Date: 2016-12-26 01:17+0100\n"
+"PO-Revision-Date: 2016-12-26 01:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: Liath <amfearliath@gmx.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/css\n"
+"X-Poedit-SearchPathExcluded-1: assets/fonts\n"
+"X-Poedit-SearchPathExcluded-2: assets/js\n"
+
+#: admin/config.php:10
+msgid "<strong>All Settings saved.</strong> Your plugin ist now configured"
+msgstr ""
+
+#: admin/config.php:14
+msgid ""
+"<strong>Error.</strong> Your settings can not be saved, please try again"
+msgstr ""
+
+#: admin/config.php:26
+msgid "News Manager Settings"
+msgstr ""
+
+#: admin/config.php:40
+msgid "Activate needed resources"
+msgstr ""
+
+#: admin/config.php:47
+msgid "bxSlider"
+msgstr ""
+
+#: admin/config.php:48
+msgid ""
+"You can here activate the bxSlider. If it is previously loaded by another "
+"script, deactivate it here"
+msgstr ""
+
+#: admin/config.php:55
+msgid "Font Awesome"
+msgstr ""
+
+#: admin/config.php:56
+msgid ""
+"You can here activate the Font Awesome. If it is previously loaded by "
+"another script, deactivate it here"
+msgstr ""
+
+#: admin/config.php:63
+msgid "Bootstrap"
+msgstr ""
+
+#: admin/config.php:64
+msgid ""
+"You can here activate Bootstrap. If it is previously loaded by another "
+"script, deactivate it here"
+msgstr ""
+
+#: admin/config.php:71
+msgid "WYSIWYG Editor"
+msgstr ""
+
+#: admin/config.php:72
+msgid ""
+"You can here activate the WYSIWYG Editor. If it is previously loaded by "
+"another script, deactivate it here"
+msgstr ""
+
+#: admin/config.php:82
+msgid "Set here the Dimensions of the News box"
+msgstr ""
+
+#: admin/config.php:87
+msgid "Height"
+msgstr ""
+
+#: admin/config.php:88
+msgid "You can use all kind of parameters here (px, %, vh, etc...)"
+msgstr ""
+
+#: admin/config.php:94
+msgid "Width"
+msgstr ""
+
+#: admin/config.php:95
+msgid "You can use all kind of parameters here (px, %, vw, etc...)"
+msgstr ""
+
+#: admin/config.php:106
+msgid "Set here the Apperance of the News box"
+msgstr ""
+
+#: admin/config.php:111
+msgid "Border"
+msgstr ""
+
+#: admin/config.php:112
+msgid "You can use all kind of parameters here (px, dashed, rgba, etc...)"
+msgstr ""
+
+#: admin/config.php:118
+msgid "Border Radius"
+msgstr ""
+
+#: admin/config.php:119
+msgid "You can use all kind of parameters here (px, %, em, etc...)"
+msgstr ""
+
+#: admin/config.php:125
+msgid "Background"
+msgstr ""
+
+#: admin/config.php:126
+msgid ""
+"You can use all kind of parameters here (url, rgba, transparent, etc...)"
+msgstr ""
+
+#: admin/config.php:135 admin/news.php:128
+msgid "Save"
+msgstr ""
+
+#: admin/news.php:10
+#, php-format
+msgid ""
+"<strong>Attention.</strong> You should configure the plugin first and set a "
+"height for the news-box! <a href=\"%s\">Configuration</a>"
+msgstr ""
+
+#: admin/news.php:44
+msgid "<strong>Message saved.</strong> Your message was saved succesfully"
+msgstr ""
+
+#: admin/news.php:48
+msgid "<strong>Error.</strong> Your message can not be saved, please try again"
+msgstr ""
+
+#: admin/news.php:59
+msgid "<strong>Message edited.</strong> Your message was edited succesfully"
+msgstr ""
+
+#: admin/news.php:63
+msgid ""
+"<strong>Error.</strong> Your message can not be edited, please try again"
+msgstr ""
+
+#: admin/news.php:107
+msgid "Create News"
+msgstr ""
+
+#: admin/news.php:140
+msgid "Date"
+msgstr ""
+
+#: admin/news.php:141
+msgid "Preview"
+msgstr ""
+
+#: admin/news.php:142
+msgid "Tools"
+msgstr ""
+
+#: index.php:20
+msgid "News Managment"
+msgstr ""
+
+#: index.php:141
+msgid "News Manager"
+msgstr ""
+
+#: index.php:142 index.php:150
+msgid "News"
+msgstr ""
+
+#: index.php:143 index.php:151
+msgid "Settings"
+msgstr ""
+
+#: index.php:144 index.php:152
+msgid "Help"
+msgstr ""
+
+#: index.php:148
+msgid "jQWE Plugin"
+msgstr ""
+
+#: view/news.php:17
+#, php-format
+msgid "on %s at %s"
+msgstr ""
