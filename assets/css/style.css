@@ -1,0 +1,35 @@
+#news_wrapper {
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+  margin-top: 10px;
+  max-height: 200px;
+}
+
+#news_wrapper .bx-wrapper {
+  margin: 0;
+}
+
+#news_wrapper .message_item {
+  width: 100% !important;
+  margin: 5px 5px 10px 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px dashed #ddd;
+}
+
+#news_wrapper .message_item div.review_date {
+  float: right;
+  margin-right: 5px;
+  font-size: 10px;
+}
+
+#news_wrapper .message_item div.review_content {
+  margin: 0;
+  padding: 5px;
+  clear: both;
+}
+
+#news_wrapper .message_item {
+  font-size: 12px;
+  font-weight: bold;
+  border-bottom: 1px dashed #eaeaea;
+}
